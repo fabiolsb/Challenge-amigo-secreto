@@ -31,5 +31,4 @@ Este projeto permite adicionar nomes de amigos a uma lista e realizar um sorteio
 ## Contribuição
 Sinta-se à vontade para sugerir melhorias e contribuir com o projeto!
 
-## Licença
-Este projeto está sob a licença MIT.
+
